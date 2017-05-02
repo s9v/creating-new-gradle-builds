@@ -13,7 +13,7 @@ When encountering a project that uses Gradle for the first time, many developers
 
 You can start a new project simply by creating a `build.gradle` file and adding build logic to it. To keep this example as simple as possible, create a new directory and add an empty file called `build.gradle` to it.
 
-NOTE: Shell commands will shown for Unix-based systems. Windows has analogous commands for each.
+NOTE: Shell commands will be shown for Unix-based systems. Windows has analogous commands for each.
 
 [listing]
 ----
